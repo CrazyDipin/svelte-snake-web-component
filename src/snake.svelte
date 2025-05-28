@@ -135,7 +135,7 @@
 
 <div class="game-container">
   <div class="game-header-container">
-    <h1 class="game-title">Snake</h1>
+    <h1 class="game-title">Nepali Cobra</h1>
     <span class="game-score">Score: {score}</span>
     <div class="game-info-container">
       {#if !running}
